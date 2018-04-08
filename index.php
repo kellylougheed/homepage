@@ -40,7 +40,7 @@
           <img src="images/educator.png">
         </div>
         <div class="card-content">
-          <p>I have taught computer science and Latin to grades 6-12 in CA, FL, and AZ. I am currently finishing my certificate in Computer Science Education at the College of St. Scholastica.</p>
+          <p>I have taught computer science and Latin to grades 6-12 in locations ranging from California to Florida to Rome. I am currently finishing my certificate in Computer Science Education at the College of St. Scholastica.</p>
         </div>
         <div class="card-action">
           <a href="http://www.kellylougheed.com/teaching/" target="_blank">Teaching Portfolio</a>
