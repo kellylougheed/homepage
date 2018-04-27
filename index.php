@@ -25,7 +25,7 @@
           <img src="images/developer.png">
         </div>
         <div class="card-content">
-          <p>I am earning my certificate in Software Development from UC Berkeley and have worked as a developer using Python, JavaScript, and PHP. I have also studied Java, C, Ruby on Rails, and Swift.</p>
+          <p>I earned my certificate in Software Development from UC Berkeley and have worked as a developer using Python, JavaScript, and PHP. I have also studied Java, C, Ruby on Rails, and Swift.</p>
         </div>
         <div class="card-action">
           <a href="http://kellylougheed.com/dev/" target="_blank">Software Portfolio</a>
@@ -40,7 +40,7 @@
           <img src="images/educator.png">
         </div>
         <div class="card-content">
-          <p>I have taught computer science and Latin to grades 6-12 in locations ranging from California to Florida to Rome. I am currently finishing my certificate in Computer Science Education at the College of St. Scholastica.</p>
+          <p>I have taught computer science and Latin to grades 6-12 in locations ranging from California to Florida to Rome. I am currently pursuing an M.Ed. in Computer Science Education at the College of St. Scholastica.</p>
         </div>
         <div class="card-action">
           <a href="http://www.kellylougheed.com/teaching/" target="_blank">Teaching Portfolio</a>
