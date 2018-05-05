@@ -25,7 +25,7 @@
           <img src="images/developer.png">
         </div>
         <div class="card-content">
-          <p>I earned my certificate in Software Development from UC Berkeley and have worked as a developer using Python, JavaScript, and PHP. I have also studied Java, C, Ruby on Rails, and Swift.</p>
+          <p>I earned my certificate in Software Development and Programming from UC Berkeley and have worked as a developer using Python and JavaScript. I have also studied Java, C, Ruby, Swift, and other languages.</p>
         </div>
         <div class="card-action">
           <a href="http://kellylougheed.com/dev/" target="_blank">Software Portfolio</a>
