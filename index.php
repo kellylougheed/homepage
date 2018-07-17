@@ -25,10 +25,10 @@
           <img src="images/developer.png">
         </div>
         <div class="card-content">
-          <p>I earned my certificate in Software Development and Programming from UC Berkeley and have worked as a developer using Python and JavaScript. I have also studied Java, C, Ruby, Swift, and other languages.</p>
+          <p>I earned my certificate in Software Development and Programming from UC Berkeley and have worked as a developer using Python, JavaScript, and PHP. I have also studied Java, C, Ruby, Swift, and other languages.</p>
         </div>
         <div class="card-action">
-          <a href="http://kellylougheed.com/dev/" target="_blank">Software Portfolio</a>
+          <a href="https://github.com/kellylougheed" target="_blank">GitHub</a>
         </div>
   		</div>
   	</div>
@@ -40,7 +40,7 @@
           <img src="images/educator.png">
         </div>
         <div class="card-content">
-          <p>I have taught computer science and Latin to grades 6-12 in locations ranging from California to Florida to Rome. I am currently pursuing an M.Ed. in Computer Science Education at the College of St. Scholastica.</p>
+          <p>I have taught computer science and Latin to grades 6-12 in locations ranging from Los Angeles to New York to Rome. I am currently pursuing an M.Ed. in Computer Science Education at the College of St. Scholastica.</p>
         </div>
         <div class="card-action">
           <a href="http://www.kellylougheed.com/teaching/" target="_blank">Teaching Portfolio</a>
@@ -55,7 +55,7 @@
           <img src="images/writer.png">
         </div>
         <div class="card-content">
-          <p>I write coding tutorials for a variety of levels about web development, WebVR, p5.js, basic programming, and application development with Java.</p>
+          <p>I write coding tutorials for a variety of levels about Python, Java, web development, and 2D and 3D graphics.</p>
         </div>
         <div class="card-action">
           <a href="https://medium.com/@kellylougheed" target="_blank">Medium</a>
@@ -70,7 +70,7 @@
           <img src="images/author.png">
         </div>
         <div class="card-content">
-          <p>I have published four young adult novels. Based on my own experience at an all-girls school, these books satirize contemporary YA vampire stories.</p>
+          <p>I have published four young adult novels. Based on my own experience attending an all-girls school, these books satirize contemporary YA vampire stories.</p>
         </div>
         <div class="card-action">
           <a href="http://www.kellylougheed.com/author/" target="_blank">Author Website</a>
