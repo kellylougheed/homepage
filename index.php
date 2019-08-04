@@ -1,86 +1,54 @@
-<!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="UTF-8">
-    <title>Kelly Lougheed</title>
-    <meta name="description" content="Kelly Lougheed is a computer science educator, software developer, and writer in Los Angeles, CA.">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
-    <link href='https://fonts.googleapis.com/css?family=Abril+Fatface' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="materialize.min.css">
-    <link rel="stylesheet" href="style.css">
-    <script src="https://use.fontawesome.com/ee14bb1f23.js"></script>
-  </head>
-  <body>
-  	<h1>Kelly Lougheed</h1>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+  <!-- Open Graph tags for LinkedIn sharing -->
+  <meta property="og:title" content="Portfolio Website" />
+  <meta property="og:description" content="Software and teaching portfolio of Kelly Lougheed" />
+  <meta property="og:url" content="http://www.kellylougheed.com" />
+  <meta property="og:image" content="http://www.kellylougheed.com/images/projects/participation.png" />
+  <title>Kelly Lougheed</title>
+  <!-- CSS -->
+  <link href="style.css" rel="stylesheet" type="text/css">
+  <!-- Icons -->
+  <link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
+  <script src="https://use.fontawesome.com/ee14bb1f23.js"></script>
+  <!-- Fonts -->
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Special+Elite' rel='stylesheet' type='text/css'>
+</head>
+<body>
+  <div class="header">
+    <div class="intro">
+      <h1>Kelly Lougheed</h1>
+      <h2>computer science ed. tech writing. digital arts + humanities.</h2>
+      <p id="icons"><a class="contact" href="https://medium.com/@kellylougheed" target="_blank"><i class="fa fa-medium" aria-hidden="true"></i></a> <a class="contact" href="https://github.com/kellylougheed" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a> <a class="contact" href="https://www.linkedin.com/in/kellylougheed/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a> <a class="contact" href="http://www.twitter.com/kellylougheed" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a> <a class="contact" href="mailto:hello@kellylougheed.com?Subject=Hello"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></p>
+    </div><!-- intro -->
+    <div class="down"><a onclick="$('#about').animatescroll();"><i class="fa fa-angle-down" aria-hidden="true"></i></a></div>
+  </div><!-- header -->
+<div id="about">
+  <h1>About</h1>
 
-  	<p><a class="contact" href="https://medium.com/@kellylougheed" target="_blank"><i class="fa fa-medium" aria-hidden="true"></i></a> <a class="contact" href="https://github.com/kellylougheed" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a> <a class="contact" href="https://www.linkedin.com/in/kellylougheed/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a> <a class="contact" href="http://www.twitter.com/kellylougheed" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a> <a class="contact" href="mailto:hello@kellylougheed.com?Subject=Hello"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></p>
+  <p>I'm a computer science teacher in Los Angeles, CA with experience teaching all levels of CS. I hold certificates &amp; degrees in Computer Science Education, Software Development &amp; Programming, and Classics (Latin &amp; Greek). My work includes integrating computer science into art, math, and the humanities.</p>
 
-  	<div class="parent">
+  <p>I have written technical tutorials about topics such as <a href="https://medium.com/@kellylougheed/hogwarts-sorting-hat-with-python-ae1ab98a3c6b" target="_blank">Python</a>, <a href="https://medium.com/@kellylougheed/fortune-teller-with-java-classes-75069ac39591" target="_blank">Java</a>, <a href="https://medium.com/@kellylougheed/make-a-webvr-ball-pit-with-a-frame-physics-bce2d40557d7" target="_blank">virtual reality</a>, <a href="https://medium.com/@kellylougheed/rainbow-paintbrush-in-p5-js-e452d5540b25" target="_blank">creative coding</a>, and <a href="https://medium.com/@kellylougheed/coding-english-lit-natural-language-processing-in-python-ba8ebae4dde3" target="_blank">natural language processing</a>. I have also written about <a href="https://blog.upperlinecode.com/promoting-collaboration-in-a-computer-science-classroom-f67eb75beb1b" target="_blank">CS pedagogy</a> and developed apps that help <a href="https://kellylougheed.github.io/driver/" target="_blank">facilitate pair programming</a> and <a href="https://kellylougheed.github.io/binary/" target="_blank">quiz students on binary numbers</a>.</p>
 
-  	<div>
-  		<h4>Software Developer</h4>
-  		<div class="card">
-        <div class="card-image">
-          <img src="images/developer.png">
-        </div>
-        <div class="card-content">
-          <p>I earned my certificate in Software Development and Programming from UC Berkeley and have worked as a developer using Python, JavaScript, and PHP. I have also studied Java, C, Ruby, Swift, and other languages.</p>
-        </div>
-        <div class="card-action">
-          <a href="https://github.com/kellylougheed" target="_blank">GitHub</a>
-        </div>
-  		</div>
-  	</div>
+  <p>My personal coding projects are usually inspired by my love for Italy, such as my <a href="http://italy-quiz.glitch.me/" target="_blank">Italian Sporcle quiz</a> and <a href="https://css-colosseum.glitch.me/" target="_blank">CSS Colosseum</a>.</p>
 
-  	<div>
-  	<h4>Educator</h4>
-      <div class="card">
-        <div class="card-image">
-          <img src="images/educator.png">
-        </div>
-        <div class="card-content">
-          <p>I have taught computer science and Latin to grades 6-12 in locations ranging from Los Angeles to New York to Rome. I am currently pursuing an M.Ed. in Computer Science Education at the College of St. Scholastica.</p>
-        </div>
-        <div class="card-action">
-          <a href="http://www.kellylougheed.com/teaching/" target="_blank">Teaching Portfolio</a>
-        </div>
-      </div>
-     </div>
+  <p><a href="http://kellylougheed.com/teaching/" target="_blank" id="teaching">Teaching Portfolio</a></p>
+  
+</div><!-- about -->
 
-    <div>
-  	<h4>Technical Writer</h4>
-      <div class="card">
-        <div class="card-image">
-          <img src="images/writer.png">
-        </div>
-        <div class="card-content">
-          <p>I write coding tutorials for a variety of levels about Python, Java, web development, and 2D and 3D graphics.</p>
-        </div>
-        <div class="card-action">
-          <a href="https://medium.com/@kellylougheed" target="_blank">Medium</a>
-        </div>
-      </div>
-     </div>
+<div class="footer">
+  
+    © Kelly Lougheed <?php echo date("Y"); ?>. All rights reserved.
+    <a href="https://github.com/kellylougheed/portfolio" target="_blank"><i class="fa fa-code" aria-hidden="true"></i></a>
+  
+</div>
 
-     <div>
-     <h4>Author</h4>
-      <div class="card">
-        <div class="card-image">
-          <img src="images/author.png">
-        </div>
-        <div class="card-content">
-          <p>I have published four young adult novels. Based on my own experience attending an all-girls school, these books satirize contemporary YA vampire stories.</p>
-        </div>
-        <div class="card-action">
-          <a href="http://www.kellylougheed.com/author/" target="_blank">Author Website</a>
-        </div>
-      </div>
-      </div>
+</div>
 
-  </div>
-
-  <footer>© Kelly Lougheed <?php echo date("Y"); ?>. All rights reserved.</footer>
-
-  </body>
-</html>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+        <script src="http://kellylougheed.com/animatescroll.js"></script>
+</body>
